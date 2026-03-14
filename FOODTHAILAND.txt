@@ -1,0 +1,6 @@
+# LINE Bot Configuration
+LINE_ACCESS_TOKEN=zhZb+sOYhf108ZcFIsxf12ZdWdb2JrDz4j13Mp0DlZhfIkCQqN790trQPg5fCUyuvYbE1oQOSlKU/utYp/wWh8i7VWDzCWxYd/qjF0Hk6Dt1sHbZtLO+3Q7GIonEDsxmbb4hY7fRoON8GqsrGDrVywdB04t89/1O/w1cDnyilFU=
+LINE_SECRET=dbb26e35a529426adfc0c1a41684662d
+
+# Base URL for images (use ngrok URL in development)
+BASE_URL=http://localhost:3000
